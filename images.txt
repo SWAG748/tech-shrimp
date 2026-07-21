@@ -9,3 +9,5 @@
 #victoriametrics/victoria-metrics:v1.79.12
 #alpine:3.21
 bitnami/kafka:3.8.1
+ubuntu:24.04
+docker:25.0.14
